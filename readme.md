@@ -30,5 +30,5 @@ Para rodar a aplicação utilize:
     npm start       #ou yarn start
 
 ---
-#### Agredecimentos :purple_heart:
+#### Agradecimentos :purple_heart:
 Queria agradecer a equipe RocketSeat por proporcionar esse conteudo onde pude adquirir bastante conhecimento, ajudar a comunidade e ser ajudado tambem.
